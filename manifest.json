@@ -16,5 +16,12 @@
     "js": [ "jquery.min.js", "background.js" ],
     "matches": [ "http://*/*", "https://*/*"]
   }],
+  "web_accessible_resources": [
+    "res/*.png",
+    "style/double-rainbow.css",
+    "script/double-rainbow.js",
+    "script/main.js",
+    "templates/*"
+  ],
   "manifest_version": 2
 }
