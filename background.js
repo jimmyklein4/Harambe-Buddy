@@ -1,7 +1,11 @@
 
     var harambeEmotions = [
+      'harambe-amazed.png',
       'harambe-angry.png',
+      'harambe-contemplative.png',
+      'harambe-sleepy.png',
       'harambe-transparent.png',
+      'harambe-why.png',
       'harambe2-transparent.png',
       'harambe3-transparent.png'
     ];
@@ -9,7 +13,7 @@
     var harambeAdvice = [
       "welcome!!"
     ];
-    var index = Math.floor(Math.random()*10) % 4;
+    var index = Math.floor(Math.random()*10) % 8;
 
     //Creating Elements
     var cincinnatiZoo = document.createElement("div");
