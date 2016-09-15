@@ -15,7 +15,7 @@
       "you can judge a man's true character by the way he treats his fellow animal",
       "Trust is like a paper. Once it's crumbled it can't be perfect again...",
       "Not sure why they killed me. I was doing a better job of watching that kid than she was...",
-      "When you do every right, people will think you did nothing at all.",
+      "When you do everything right, people will think you did nothing at all.",
       "Heroes get remembered but legends never dies",
       "They didn't understand me and they had to kill me.... And I am labelled the animal.",
       "fffff"
